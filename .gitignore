@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+mlruns/
+mlflow.db
+catboost_info/
+monitoring/*.csv
+data/raw/
+monitoring/*.json
+monitoring/*.html
+gate_report.md
+.envdata/raw/
+data/processed/
+models/*.cbm
